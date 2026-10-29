@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Zahra Nazari 👋
 
-<!--
-**znazari43/znazari43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cybersecurity student at Georgia Gwinnett College, expected to graduate in May 2028. I'm building practical skills in networking, Linux, and cybersecurity.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Wireshark and network traffic analysis (coursework)
+- DNS lookups using nslookup
+- Linux command-line fundamentals
+- JavaScript, HTML, and CSS
+- Microsoft Excel and documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Office Scheduler:** A browser-based task manager built with JavaScript, HTML, and CSS.
+- **DNS Lookup Lab:** Practiced querying DNS information using nslookup.
+- **Wireshark Lab:** Practiced inspecting network traffic in coursework.
+- **Escape the Lab:** Contributed to an interactive educational project through the GGC Technology Ambassador Program.
+
+## Goals
+Seeking Summer 2027 cybersecurity internship and part-time IT support opportunities.
+
+## Connect
+- LinkedIn: https://linkedin.com/in/zahra-nazari-909169317
